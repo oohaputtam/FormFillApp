@@ -21,6 +21,11 @@
     <input type="text" placeholder="Enter Brother Name" name="brother name" id="brother name" required>
     <br>
 
+    <label for="sister name"><b>Sister Name</b></label>
+    <input type="text" placeholder="Enter Sister Name" name="sister name" id="sister name" required>
+    <br>
+
+
     <label for="age"><b>Age</b></label>
     <input type="text" placeholder="Enter Age" name="age" id="age" required>
     <br>
