@@ -17,6 +17,10 @@
     <input type="text" placeholder="Enter Father Name" name="father name" id="father name" required>
     <br>
 
+    <label for="brother name"><b>Brother Name</b></label>
+    <input type="text" placeholder="Enter Brother Name" name="brother name" id="brother name" required>
+    <br>
+
     <label for="age"><b>Age</b></label>
     <input type="text" placeholder="Enter Age" name="age" id="age" required>
     <br>
